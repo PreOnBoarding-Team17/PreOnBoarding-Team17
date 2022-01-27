@@ -19,8 +19,8 @@
   <li> <h4>1주차</h4>
     <ul>
       <li> <a href=https://onyx-limburger-373.notion.site/d7532325b8924e9486e0322c459fb9c1>면접과제</a> </li>
-      <li><a href=https://github.com/PreOnBoarding-Team17/Week1_Exchange_Rate_Calculator>와이어바알리-레드브릭 기업과제</a></li>
-      <li><a href=https://github.com/PreOnBoarding-Team17/Week1_Product_Registration>설로인 기업과제</a></li>
+      <li><a href=https://github.com/PreOnBoarding-Team17/Week1_Exchange_Rate_Calculator>과제 1 - 환율 계산기</a></li>
+      <li><a href=https://github.com/PreOnBoarding-Team17/Week1_Product_Registration>과제 2 - 상품 등록 </a></li>
     </ul>
   </li>
 </ul>
