@@ -1,1 +1,26 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hello,%20We%20are%2017Seoul%20👋&fontSize=50&animation=fadeIn&fontAlignY=36)
+
+<br/>
+
+## 👋🏻 팀원 소개
+
+| 직책   | 이름(Github)                               |
+| ----- | ----------------------------------------- |
+| 팀장🏅 | [황상섭](https://github.com/sangseophwang) |
+| 팀원   | [금보배](https://github.com/BobaeKeum) |
+| 팀원   | [정인권](https://github.com/developjik)  |
+| 팀원   | [현다솜](https://github.com/som-syom) |
+
+<br/>
+
+## 🛠 과제
+
+<ul>
+  <li> <h4>1주차</h4>
+    <ul>
+      <li> <a href=https://onyx-limburger-373.notion.site/d7532325b8924e9486e0322c459fb9c1>면접과제</a> </li>
+      <li><a href=https://github.com/PreOnBoarding-Team17/Week1_Exchange_Rate_Calculator>와이어바알리-레드브릭 기업과제</a></li>
+      <li><a href=https://github.com/PreOnBoarding-Team17/Week1_Product_Registration>설로인 기업과제</a></li>
+    </ul>
+  </li>
+</ul>
