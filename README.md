@@ -4,9 +4,9 @@
 
 ## 👋🏻 팀원 소개
 
-| 직책   | 이름(Github)                               |
+| 직책   | 이름(링크)                               |
 | ----- | ----------------------------------------- |
-| 팀장🏅 | [황상섭](https://github.com/sangseophwang) |
+| 팀장🏅 | [황상섭](https://onyx-limburger-373.notion.site/SEOP_Dev-Portfolio-25d18676f50d44e29f3daa3d00ddc79c) |
 | 팀원   | [금보배](https://github.com/BobaeKeum) |
 | 팀원   | [정인권](https://github.com/developjik)  |
 | 팀원   | [현다솜](https://github.com/som-syom) |
