@@ -26,7 +26,6 @@
     <ul>
       <li><a href=https://github.com/PreOnBoarding-Team17/Week2_Dashboard>과제 3 - 대시보드 </a></li>
       <li><a href=https://github.com/PreOnBoarding-Team17/Week2_Messenger>과제 4 - 메신저 </a></li>
-      
     </ul>
   </li>
 </ul>
