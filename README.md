@@ -28,4 +28,9 @@
       <li><a href=https://github.com/PreOnBoarding-Team17/Week2_Messenger>과제 4 - 메신저 </a></li>
     </ul>
   </li>
+    <li> <h4>3주차</h4>
+    <ul>
+      <li><a href=https://github.com/PreOnBoarding-Team17/Week3_MainPage>과제 5 - 메인 페이지 </a></li>
+    </ul>
+  </li>
 </ul>
