@@ -31,6 +31,7 @@
     <li> <h4>3주차</h4>
     <ul>
       <li><a href=https://github.com/PreOnBoarding-Team17/Week3_MainPage>과제 5 - 메인 페이지 </a></li>
+      <li><a href=https://github.com/PreOnBoarding-Team17/Week3_Table>과제 6 - 출고 관리표 </a></li>
     </ul>
   </li>
 </ul>
