@@ -34,4 +34,9 @@
       <li><a href=https://github.com/PreOnBoarding-Team17/Week3_Table>과제 6 - 출고 관리표 </a></li>
     </ul>
   </li>
+  <li> <h4>4주차</h4>
+    <ul>
+      <li><a href=https://github.com/PreOnBoarding-Team17/Week4_JavaScript>과제 7 - 바닐라 자바스크립트 페이지 </a></li>
+    </ul>
+  </li>
 </ul>
