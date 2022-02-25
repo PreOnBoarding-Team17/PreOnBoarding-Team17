@@ -37,6 +37,7 @@
   <li> <h4>4주차</h4>
     <ul>
       <li><a href=https://github.com/PreOnBoarding-Team17/Week4_JavaScript>과제 7 - 바닐라 자바스크립트 페이지 </a></li>
+      <li><a href=https://github.com/PreOnBoarding-Team17/Week4_Transfer>과제 8 - 파일 링크 페이지 </a></li>
     </ul>
   </li>
 </ul>
